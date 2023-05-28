@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6b9f249.css",
+    "main.js": "/static/js/main.b697dc8e.js",
+    "static/js/787.579ab373.chunk.js": "/static/js/787.579ab373.chunk.js",
+    "static/media/profile_1.jpg": "/static/media/profile_1.ecebe13e699e7617e447.jpg",
+    "static/media/MakiyamaMay2023.pdf": "/static/media/MakiyamaMay2023.30c298c2ba24f76654f2.pdf",
+    "static/media/mongo-db-logo.svg": "/static/media/mongo-db-logo.4d0524e8507975bf9f23ba41f15253e8.svg",
+    "static/media/microsoft-azure-logo.svg": "/static/media/microsoft-azure-logo.6ab1963daa5a5bdfe234c241eb2cd390.svg",
+    "static/media/smiley-placeholder.svg": "/static/media/smiley-placeholder.0948b16a186708e9a778a92302149717.svg",
+    "static/media/microsoft-net-logo.svg": "/static/media/microsoft-net-logo.b4a1f214e0667e233ce63e039e7066ca.svg",
+    "static/media/google-cloud-icon.svg": "/static/media/google-cloud-icon.dd8fa784860da51ee0d7ddceb8850919.svg",
+    "static/media/angular-logo.svg": "/static/media/angular-logo.3f781d9105b3bef395676155dd37e208.svg",
+    "index.html": "/index.html",
+    "static/media/react-logo.svg": "/static/media/react-logo.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.c6b9f249.css.map": "/static/css/main.c6b9f249.css.map",
+    "main.b697dc8e.js.map": "/static/js/main.b697dc8e.js.map",
+    "787.579ab373.chunk.js.map": "/static/js/787.579ab373.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6b9f249.css",
+    "static/js/main.b697dc8e.js"
+  ]
+}
