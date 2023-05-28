@@ -1,0 +1,249 @@
+html {
+  zoom: 200%;
+}
+
+body {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: rgb(32, 0, 83);
+  margin: 0px;
+}
+
+@media screen and (max-width: 767px) {
+  body {
+      font-size: 0.6em;
+  }
+}
+
+@media screen and (max-width: 1060px) {
+  .header {
+      padding-bottom: 20px;
+      margin-bottom: 10px;
+  }
+}
+
+hr {
+  width: 40%;
+  margin: 10px auto;
+}
+
+header {
+  max-width: 100%;
+  max-height: 200px;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+h6 {
+  margin: 4px;
+}
+
+.header-text {
+  display: block;
+  margin: 3px;
+}
+
+.header {
+  padding-bottom: 0px;
+  border: 5px solid rgb(255, 255, 255);
+  background-color: white;
+}
+
+@media screen and (min-width: 1023px) {
+  .angular-react-logo {
+      width: 3%;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .angular-react-logo {
+      width: 7%;
+  }
+}
+
+hr {
+  width: 40%;
+  margin: 10px auto;
+}
+
+h5 {
+  margin: 8px;
+}
+
+ul {
+  padding: 0px;
+  margin: 0px;
+}
+
+li {
+  text-align: center;
+  list-style: none;
+}
+
+.react-spin {
+  animation: react-logo-spin infinite 4s linear;
+  pointer-events: none;
+}
+
+@keyframes react-logo-spin {
+  from {
+      transform: rotate(0deg);
+  }
+
+  to {
+      transform: rotate(360deg);
+  }
+}
+
+.tech-logo {
+  width: 5%;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.mongo-azure-logo {
+  width: 15%;
+  padding-right: 5px;
+}
+
+@media screen and (min-width: 1059px) {
+  .mongo-azure-logo {
+      width: 8%;
+  }
+}
+
+@media screen and (max-width: 1059px) {
+  .mongo-azure-logo {
+      width: 15%;
+  }
+}
+
+.last-anchor {
+  padding: 10px;
+}
+
+.profile-picture {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  width: 100%;
+  margin: auto;
+  width: 100%;
+  border-radius: 15px;
+  border: 5px solid rgb(255, 255, 255);
+}
+
+.mobile-picture {
+  border-top-left-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  display: block;
+  border-radius: 15px;
+  border: 5px solid rgb(255, 255, 255);
+}
+
+.mobile-img-container {
+  margin: auto;
+}
+
+@media screen and (min-width: 1059px) {
+  .mobile-img-container {
+      display: none;
+  }
+}
+
+@media screen and (max-width: 1059px) {
+
+  .profile-picture,
+  .img-container {
+      display: none;
+  }
+}
+
+#p-red {
+  color: red;
+}
+
+#div-purple {
+  color: purple;
+}
+
+#span-violet {
+  color: rgb(255, 146, 127);
+}
+
+#span-green {
+  color: green;
+}
+
+#span-grey {
+  color: blue;
+}
+
+.footer {
+  position: relative;
+  bottom: 0;
+  background-color: white;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.header-text {
+  display: block;
+  margin: 3px;
+}
+
+object {
+  width: 100%;
+  height: 100vw;
+}
+
+.header {
+  border-radius: 0px;
+  padding-bottom: 10px;
+  border: 5px solid rgb(255, 255, 255);
+  background-color: white;
+}
+
+@media screen and (min-width: 1060px) {
+  .img-container-wrapper {
+      padding-top: 20px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+
+  }
+}
+
+.img-container {
+  width: 20%;
+  margin: auto;
+}
+
+.demo-container {
+  width: 80%;
+  height: 100%;
+  margin: auto;
+  background-color: white;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.text-container {
+  width: 70%;
+  margin: auto;
+  background-color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 15px;
+  border: 5px solid rgb(255, 255, 255);
+}
+
+.profile-picture:hover,
+.mobile-picture:hover {
+  box-shadow: 0px 6px 20px rgb(255, 255, 255);
+
+}
